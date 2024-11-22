@@ -99,8 +99,7 @@
 
 ## Tesing
 - ©️ <https://www.cypress.io> Cypress
-- ©️ <[https://www.jestjs.io](https://jestjs.io/)> Jestjs
-- 
+- ©️ <https://www.jestjs.io](https://jestjs.io/)> Jestjs
 
 ## Some useful AI
 - https://www.cursor.com/
