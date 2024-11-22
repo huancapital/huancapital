@@ -101,6 +101,11 @@
 - ©️ <https://www.cypress.io> Cypress
 - ©️ <https://www.jestjs.io](https://jestjs.io/)> Jestjs
 
+## Blokchain development environment
+- ©️ <https://hardhat.org/> Ethereum development environment
+- ©️ <https://www.infura.io/> Blockchain api tool
+- ©️ <https://www.alchemy.com> Web3 app tool
+
 ## Some useful AI
 - https://www.cursor.com/
 - https://claude.ai/new
