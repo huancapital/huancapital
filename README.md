@@ -1,5 +1,3 @@
-![image](https://i.ibb.co/k2P2DhDV/Screenshot-2025-05-24-at-15-05-05.png)
-
 <div>
   <h1>
     <a href="https://t.me/huancapital" target="_blank">
