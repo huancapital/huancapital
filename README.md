@@ -1,129 +1,94 @@
-![image](https://github.com/user-attachments/assets/0b7d2c70-180d-411b-b74d-f6c07ab20fa1)
+![image](https://i.ibb.co/k2P2DhDV/Screenshot-2025-05-24-at-15-05-05.png)
 
 <div>
   <h1>
     <a href="https://t.me/huancapital" target="_blank">
-      👋 Hi, I’m @HuanCapital, Senior Blockchain Fullstack Developer (Ruby, ReactJS, NodeJS, NextJS, Web3, Smart Contract).
+      👋 Hi, we are Fiotech Solutions. We build blockchain, web3.
     </a>
   </h1>
-   <h1>
+  <h2>
+    <a href="https://evm-blockchain.fiotech.org/" target="_blank">
+      🚀 Live Demo: BNW Blockchain Ecosystem - A Next-Generation EVM-Compatible Blockchain Platform
+    </a>
+  </h2>
+  <h3>
     <a href="https://t.me/bscexchange_finance" target="_blank">
       🕵️ Blockchain Community
     </a>
-  </h1>
+  </h3>
 </div>
 
+## 🌟 Featured Project: BNW Blockchain Ecosystem
 
-## 🛠️ Technologies And Tools
+BNW is a next-generation blockchain platform designed to revolutionize decentralized applications. Our ecosystem provides:
+
+- **Advanced EVM Compatibility**: Seamless integration with Ethereum-based applications
+- **Comprehensive DApp Suite**: Including Wallet, Swap, NFT Marketplace, and Token Creator
+- **Enterprise-Grade Security**: Built with robust security measures and smart contract auditing
+- **Developer-Friendly Tools**: Complete IDE, testing environment, and deployment solutions
+- **Cross-Chain Interoperability**: Enabling seamless interaction with other blockchain networks
+
+[Explore Live Demo](https://evm-blockchain.fiotech.org/)
+
+## 🧩 BNW Ecosystem
+
+- **BNW Blockchain**: Advanced consensus mechanism ensuring fast transaction processing.
+- **BNW Wallet**: Secure and user-friendly wallet for managing your BNW assets.
+- **BNW Swap**: Decentralized exchange for trading BNW tokens.
+- **BNW Scan**: Blockchain explorer for monitoring transactions and network activity.
+- **BNW Mining App**: Mining app for mining BNW tokens.
+- **BNW Token Creator**: Create your own BNW token.
+- **BNW Exchange**: Create your own BNW token.
+- **BNW DAO**: Participate in governance and decision-making.
+- **BNW Faucet**: Get test tokens for development and testing.
+- **BNW IDE**: Integrated development environment for building and deploying smart contracts.
+- **BNW NFT**: Create and manage your own NFTs, and trade them on the BNW NFT Marketplace.
+- **BNW Marketcap**: Platform for tracking the market cap of BNW.
+- **BNW Meme**: Create, share, and trade meme tokens on the BNW blockchain.
+
+## 🛠️ Core Technologies
 
 <p>
  <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
  <img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px"/>
- <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="25px"/>
  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="25px"/>
- <img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
- <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" height="25px"/>
- <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="25px"/>
- <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
- <img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="25px"/>
- <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"  height="25px"/>
- <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
- <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
- <img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="25px"/>
+ <img alt="Web3" src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white" height="25px"/>
+ <img alt="Solidity" src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" height="25px"/>
  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
- <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
- <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
- <img alt="Render.com" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
-<img alt="rancher" src="https://www.ajfriesen.com/content/images/size/w1200/2021/06/featured-2.png" height="25px"/>
+ <img alt="docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="25px"/>
 </p>
 
-## 📊 My GitHub Data:
+## 🔗 Essential Links
 
-## Backend Development
-- ♏️ <https://rubyonrails.org/> - Ruby on rails framework
-- ♏️ <https://nodejs.org/> - Nodejs Run JavaScript Everywhere
-- ♏️ <https://guides.rubyonrails.org/action_cable_overview.html> - Action Cable Web Socket
+### Blockchain Development
+- [Hardhat](https://hardhat.org/) - Ethereum development environment
+- [Infura](https://www.infura.io/) - Blockchain API infrastructure
+- [Alchemy](https://www.alchemy.com) - Web3 development platform
+- [Remix](https://remix.ethereum.org) - Smart contract IDE
+- [Web3.js](https://web3js.readthedocs.io) - Ethereum JavaScript API
+- [Thirdweb](https://thirdweb.com) - Web3 development framework
 
-## Docker & Networking
-- ©️ <https://hub.docker.com/> Docker Hub
-- ©️ <https://docker.com/> Docker
-- ©️ <https://docs.docker.com> Docker Images
-- ©️ <https://docs.docker.com> Docker Containers
-- ©️ <https://docs.docker.com/compose/> Docker Compose
+### Cloud & Infrastructure
+- [AWS S3](https://aws.amazon.com/s3/) - Cloud storage
+- [DigitalOcean](https://cloud.digitalocean.com/) - Cloud infrastructure
+- [Cloudflare](https://dash.cloudflare.com) - CDN and security
+- [Confluent Cloud](https://confluent.cloud) - Event streaming platform
 
-## Blockchain & Web 3
-- ©️ <https://bscscan.com> Bscscan
-- ©️ <https://remix.ethereum.org> Smart Contract
-- ©️ <https://web3js.readthedocs.io> Smart Contract
-- ©️ <https://thirdweb.com> Thirdweb
+### Development Resources
+- [Solidity Examples](https://solidity-by-example.org) - Smart contract patterns
+- [Conventional Commits](https://conventionalcommits.org) - Commit message standards
+- [Microservices Guide](https://microservices.io) - Architecture patterns
+- [AsyncAPI](https://studio.asyncapi.com) - API documentation
 
-## Third Party & Payment Gateway
-- ♏️ <https://zota.com/payment-methods> - Zotapay
-- ♏️ <https://www.bitgo.com> - Bitgo Wallet Service
-- ♏️ <https://www.meilisearch.com> - Meilisearch Engine
-- ♏️ <https://lense.io> - Lense Kafka
+### Security & Best Practices
+- [HackTricks](https://book.hacktricks.xyz) - Security testing guide
+- [Cloud Native Academy](https://www.aquasec.com/cloud-native-academy/) - Cloud security
+- [Moralis](https://moralis.io) - Web3 development platform
 
-## Database
-- ♏️ <https://www.postgresql.org> - Postgresql
-- ♏️ <https://www.mysql.com> - Mysql
-
-## Frontend
-- ♏️ <https://react.dev> - ReactJS
-- ♏️ <https://redux.js.org> - Redux
-
-## Library & Tools
-- ♏️ <https://github.com> Github
-- ♏️ <https://app.circleci.com/> Circleci
-- ♏️ <https://docs.github.com/en/actions> Github Action
-
-## Cloud Service and Domain Service
-- ©️ <https://aws.amazon.com/pm/serv-s3> Cloud Object Storage - Amazon S3
-- ©️ <https://render.com> Render.com cloud service
-- ©️ <https://www.rancher.com> Rancher
-- ©️ <https://cloud.digitalocean.com/> Cloud Digitalocean
-- ©️ <https://www.godaddy.com> Godaddy
-- ©️ <https://www.namecheap.com> Namecheap
-- ©️ <https://www.netlify.com> Netlify
-- ©️ <https://vercel.com> Vercel
-- ©️ <https://confluent.cloud> Confluent Cloud
-
-## Trading & financial knowledge
-- ©️ <https://www.binance.com/> Trading
-- ©️ <https://tradingview.com> Tradingview
-
-## Task Management
-- ©️ <https://github.com/> Github project
-- ©️ <https://clickup.com> Clickup project
-- ©️ <https://www.atlassian.com> Jira
-
-## Tesing
-- ©️ <https://www.cypress.io> Cypress
-- ©️ <https://www.jestjs.io](https://jestjs.io/)> Jestjs
-
-## Blokchain development environment
-- ©️ <https://hardhat.org/> Ethereum development environment
-- ©️ <https://www.infura.io/> Blockchain api tool
-- ©️ <https://www.alchemy.com> Web3 app tool
-
-## Some useful AI
-- https://www.cursor.com/
-- https://claude.ai/new
-- https://openai.com/chatgpt/
-- https://www.blackbox.ai/
-
-## Somethings make us better
-- ⚡ Asynapi: https://studio.asyncapi.com
-- ⚡ Microservices: https://microservices.io
-- ⚡ Better Specs: https://betterspecs.org
-- ⚡ Ruby Style: https://rails.rubystyle.guide
-- ⚡ Awesome Ruby: https://awesome-ruby.com
-- ⚡ Rails SQL Injection: https://rails-sqli.org https://rorsecurity.info
-- ⚡ Conventional Commits: https://conventionalcommits.org
-- ⚡ Solidity Example: https://solidity-by-example.org
-- ⚡ Cloud academy: [https://www.aquasec.com/cloud-native-academy](https://www.aquasec.com/cloud-native-academy/)
-- ⚡ Hacking academy: [https://book.hacktricks.xyz](https://book.hacktricks.xyz)
-- ⚡ Cloudflare: [https://dash.cloudflare.com](https://dash.cloudflare.com)
-- ⚡ Rails Book: [https://infinum.com/handbook/rails](https://infinum.com/handbook/rails)
-- ⚡ Moralis: [https://moralis.io](https://moralis.io/)
+## 🤖 AI Development Tools
+- [Cursor](https://www.cursor.com/) - AI-powered code editor
+- [Claude](https://claude.ai/new) - AI assistant
+- [ChatGPT](https://openai.com/chatgpt/) - AI language model
+- [Blackbox](https://www.blackbox.ai/) - AI code assistant
 
