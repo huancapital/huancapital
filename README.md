@@ -89,4 +89,5 @@ BNW is a next-generation blockchain platform designed to revolutionize decentral
 - [Claude](https://claude.ai/new) - AI assistant
 - [ChatGPT](https://openai.com/chatgpt/) - AI language model
 - [Blackbox](https://www.blackbox.ai/) - AI code assistant
+- [Replit](https://replit.com) - AI Replit
 
