@@ -6,7 +6,7 @@
   </h1>
   <h2>
     <a href="https://evm-blockchain.fiotech.org/" target="_blank">
-      🚀 Live Demo: BNW Blockchain Ecosystem - A Next-Generation EVM-Compatible Blockchain Platform
+      🚀 Live Demo: Fiotech Blockchain Ecosystem - A Next-Generation EVM-Compatible Blockchain Platform
     </a>
   </h2>
   <h3>
@@ -16,9 +16,9 @@
   </h3>
 </div>
 
-## 🌟 Featured Project: BNW Blockchain Ecosystem
+## 🌟 Featured Project: Fiotech Blockchain Ecosystem
 
-BNW is a next-generation blockchain platform designed to revolutionize decentralized applications. Our ecosystem provides:
+Fiotech is a next-generation blockchain platform designed to revolutionize decentralized applications. Our ecosystem provides:
 
 - **Advanced EVM Compatibility**: Seamless integration with Ethereum-based applications
 - **Comprehensive DApp Suite**: Including Wallet, Swap, NFT Marketplace, and Token Creator
@@ -28,21 +28,21 @@ BNW is a next-generation blockchain platform designed to revolutionize decentral
 
 [Explore Live Demo](https://evm-blockchain.fiotech.org/)
 
-## 🧩 BNW Ecosystem
+## 🧩 Fiotech Ecosystem
 
-- **BNW Blockchain**: Advanced consensus mechanism ensuring fast transaction processing.
-- **BNW Wallet**: Secure and user-friendly wallet for managing your BNW assets.
-- **BNW Swap**: Decentralized exchange for trading BNW tokens.
-- **BNW Scan**: Blockchain explorer for monitoring transactions and network activity.
-- **BNW Mining App**: Mining app for mining BNW tokens.
-- **BNW Token Creator**: Create your own BNW token.
-- **BNW Exchange**: Create your own BNW token.
-- **BNW DAO**: Participate in governance and decision-making.
-- **BNW Faucet**: Get test tokens for development and testing.
-- **BNW IDE**: Integrated development environment for building and deploying smart contracts.
-- **BNW NFT**: Create and manage your own NFTs, and trade them on the BNW NFT Marketplace.
-- **BNW Marketcap**: Platform for tracking the market cap of BNW.
-- **BNW Meme**: Create, share, and trade meme tokens on the BNW blockchain.
+- **Fiotech Blockchain**: Advanced consensus mechanism ensuring fast transaction processing.
+- **Fiotech Wallet**: Secure and user-friendly wallet for managing your Fiotech assets.
+- **Fiotech Swap**: Decentralized exchange for trading Fiotech tokens.
+- **Fiotech Scan**: Blockchain explorer for monitoring transactions and network activity.
+- **Fiotech Mining App**: Mining app for mining Fiotech tokens.
+- **Fiotech Token Creator**: Create your own Fiotech token.
+- **Fiotech Exchange**: Create your own Fiotech token.
+- **Fiotech DAO**: Participate in governance and decision-making.
+- **Fiotech Faucet**: Get test tokens for development and testing.
+- **Fiotech IDE**: Integrated development environment for building and deploying smart contracts.
+- **Fiotech NFT**: Create and manage your own NFTs, and trade them on the Fiotech NFT Marketplace.
+- **Fiotech Marketcap**: Platform for tracking the market cap of Fiotech.
+- **Fiotech Meme**: Create, share, and trade meme tokens on the Fiotech blockchain.
 
 ## 🛠️ Core Technologies
 
