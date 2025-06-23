@@ -5,7 +5,7 @@
     </a>
   </h1>
   <h2>
-    <a href="https://evm-blockchain.fiotech.org/" target="_blank">
+    <a href="https://www.fiotechchain.org/" target="_blank">
       🚀 Live Demo: Fiotech Blockchain Ecosystem - A Next-Generation EVM-Compatible Blockchain Platform
     </a>
   </h2>
