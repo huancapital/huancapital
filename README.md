@@ -10,7 +10,7 @@
     </a>
   </h2>
   <h3>
-    <a href="https://t.me/bscexchange_finance" target="_blank">
+    <a href="https://www.facebook.com/groups/congdongblockchaintopvietnam" target="_blank">
       🕵️ Blockchain Community
     </a>
   </h3>
